@@ -1,4 +1,4 @@
-* {
+/* * {
     box-sizing: border-box;
 }
 
@@ -12,12 +12,12 @@ body {
 
 html,
 body,
-#potato,
+#potato, */
 .container {
     height: 100%;
     display: flex;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
 }
 
 .loader {
