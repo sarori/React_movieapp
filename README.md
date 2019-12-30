@@ -2,4 +2,4 @@
 
 React JS Fundamentals Course
 
-![Logo](main.png)
+<img src="./main.png" width="600" height="700"/>
